@@ -1,2 +1,4 @@
 Exercicios_01/Exer01.java
  Exercicios_01.Exer01
+Exercicios_01/Exer02.java
+ Exercicios_01.Exer02
