@@ -1,8 +1,10 @@
-Exercicios_01/Exer01.java
- Exercicios_01.Exer01
 Exercicios_01/Exer02.java
  Exercicios_01.Exer02
-Exercicios_01/Exer03.java
- Exercicios_01.Exer03
 Exercicios_01/Exer04.java
  Exercicios_01.Exer04
+Exercicios_01/Exer03.java
+ Exercicios_01.Exer03
+Exercicios_01/Exer01.java
+ Exercicios_01.Exer01
+Exercicios_01/Exerc05.java
+ Exercicios_01.Exerc05
