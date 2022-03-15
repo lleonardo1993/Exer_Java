@@ -22,6 +22,18 @@ public class Program {
         // Instânciando o Contrutor
         Product product = new Product(name, price);
 
+
+        // Getter e Setter
+        product.setName("computer");
+        System.out.println("Update name " + product.getName());
+
+        product.setPrice(99999);
+        System.out.println("Update price " + product.getPrice());
+
+        //product.setQuantity(00000);
+        //System.out.println("update quantity " + product.getQuantity());
+
+
         System.out.println();
         System.out.println("Product data: " + product);
         System.out.println();

@@ -18,12 +18,6 @@ public class Calfun {
         salario = vl_horas * horas;
         System.out.printf("O seu salario é salario = U$ %.2f%n", salario);
 
-
-
-
-
-
-
         sc.close();
     }
 
